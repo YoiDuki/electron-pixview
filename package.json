@@ -42,8 +42,8 @@
     "@types/react": "^16.8.14",
     "@types/react-dom": "^16.8.4",
     "electron": "^5.0.0",
-    "html-webpack-plugin": "^3.2.0",
-    "react-scripts-ts": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "react-scripts-ts": "^4.0.8",
     "webpack-cli": "^3.3.1",
     "webpack-dev-server": "^3.3.1"
   }
